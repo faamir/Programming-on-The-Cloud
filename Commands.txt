@@ -1,0 +1,58 @@
+
+cd PysparkLSTM          *
+pip3 install -r requirements.txt
+python3 pyspark1.py     *
+
+python3
+import nltk
+nltk.download('wordnet')
+exit()
+python3 lstm.py         *
+change datasets
+
+cd
+cd FlaskLSTM
+gcloud app deploy
+11
+
+
+
+
+
+
+
+
+
+https://coen6313s.appspot.com
+https://coen6313s.appspot.com/ML
+https://coen6313s.appspot.com/DeepLearning
+
+
+
+
+
+
+
+
+
+
+
+if pyspark does not work just do in gcloud shell:
+delete all files which you uploaded in storage
+check for personal files in the home directory:
+ls -a $HOME
+sudo rm -rf $HOME
+in 3 dots above: Restart
+
+if FlaskLSTM does not work for LSTM, just run LSTM and save lest_sent.h5 in gcloud in case keras versions are different
+
+
+
+cat /proc/cpuinfo  | grep 'name'| uniq
+Intel(R) Xeon(R) CPU @ 2.30GHz
+lscpu
+free -m
+              total        used        free      shared  buff/cache   available
+Mem:           1695         490         419           1         785        1042
+Swap:             0           0           0
+
