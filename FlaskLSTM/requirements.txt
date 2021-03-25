@@ -34,7 +34,7 @@ Pillow==4.0.0
 
 protobuf==3.1.0.post1
 
-PyYAML==3.12
+PyYAML==5.4
 
 scipy==0.18.1
 
