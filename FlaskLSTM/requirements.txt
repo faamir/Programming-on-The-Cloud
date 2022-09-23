@@ -32,7 +32,7 @@ pbr==1.10.0
 
 Pillow==4.0.0
 
-protobuf==3.1.0.post1
+protobuf==3.18.3
 
 PyYAML==3.12
 
